@@ -1,0 +1,52 @@
+Row Labels,Sum of SALES
+2018,3353014.06
+2019,4669924.56
+2020,1737283.09
+Grand Total,9760221.71
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Row Labels,Sum of QUANTITYORDERED
+Classic Cars,33373
+Motorcycles,11080
+Planes,10636
+Ships,7989
+Trains,2712
+Trucks and Buses,10579
+Vintage Cars,20059
+Grand Total,96428
+,
+,
+,
+,
+,
+,
+Row Labels,Sum of SALES
+Large,1258956.4
+Medium,5931231.47
+Small,2570033.84
+Grand Total,9760221.71
+,
+,
+,
+,
+,
+,
+,
+,
+,
+Row Labels,Sum of QUANTITYORDERED
+Done,91914
+Not Done,4514
+Grand Total,96428
